@@ -6,7 +6,7 @@ const operator = prompt('Elige la moneda que quieres cotizar ( either dolar, eur
 const number1 = parseFloat(prompt ('Ingrese cantidad de pesos argentinos'));  
 const number2 = parseFloat(prompt ('Ingrese moneda elegida'));  
   
-let result; // declaration of the variable.  
+let result; 
   
 
 if (operator == 'dolar') { 
