@@ -1,5 +1,5 @@
 let soulDate = prompt(
-  "Ingrese su fecha de nacimiento para saber cuales son sus soul's elements, animals and flowers\nDe esta forma: x xx xxxx"
+  "Ingrese su fecha de nacimiento para saber cuales son sus soul's elements, animals and flowers\nDe esta forma: xx xx xxxx"
 );
 
 function solarDate(inputDate) {
